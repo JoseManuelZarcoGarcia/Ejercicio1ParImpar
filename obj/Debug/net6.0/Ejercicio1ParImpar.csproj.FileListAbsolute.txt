@@ -1,0 +1,14 @@
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\bin\Debug\net6.0\Ejercicio1ParImpar.exe
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\bin\Debug\net6.0\Ejercicio1ParImpar.deps.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\bin\Debug\net6.0\Ejercicio1ParImpar.runtimeconfig.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\bin\Debug\net6.0\Ejercicio1ParImpar.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\bin\Debug\net6.0\Ejercicio1ParImpar.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\obj\Debug\net6.0\Ejercicio1ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\obj\Debug\net6.0\Ejercicio1ParImpar.AssemblyInfoInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\obj\Debug\net6.0\Ejercicio1ParImpar.AssemblyInfo.cs
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\obj\Debug\net6.0\Ejercicio1ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\obj\Debug\net6.0\Ejercicio1ParImpar.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\obj\Debug\net6.0\refint\Ejercicio1ParImpar.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\obj\Debug\net6.0\Ejercicio1ParImpar.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\obj\Debug\net6.0\Ejercicio1ParImpar.genruntimeconfig.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio1ParImpar\obj\Debug\net6.0\ref\Ejercicio1ParImpar.dll
